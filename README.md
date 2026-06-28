@@ -2,7 +2,7 @@
 
 - 4th-year IT Student @ University of Phayao
 - Interested in AI/ML, NLP, and Cybersecurity
-- NLP Research: Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP
+- University Project: Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP
 
 ## Skills
 - **Languages**: Python, SQL, Bash
