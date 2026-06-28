@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Thanita 👋
 
-<!--
-**thanita47/thanita47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year IT Student @ University of Phayao
+🤖 Interested in AI/ML, NLP, and Cybersecurity
+🔬 NLP Research: Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, SQL, Bash
+- **ML/NLP**: HuggingFace Transformers, PyThaiNLP, SHAP
+- **Cybersecurity**: Kali Linux, Wireshark
+- **Tools**: Google Colab, Power BI, Excel, Rapid Miner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+- 🥉 Mini CTF — Second Runner-up (CTF Boot Camp 2026)
+- NCSA × Cisco CTF 2026 — Participant
+- Super AI Engineer — Foundation AI (AIAT)
+
+## Contact
+- 📧 Email: thanita.khommoonin@gmail.com
