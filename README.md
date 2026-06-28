@@ -6,7 +6,7 @@
 
 ## Skills
 - **Languages**: Python, SQL, Bash
-- **ML/NLP**: HuggingFace Transformers, PyThaiNLP, SHAP
+- **ML/NLP**: scikit-learn, pandas, PyThaiNLP, HuggingFace Transformers, SHAP
 - **Cybersecurity**: Kali Linux, Wireshark
 - **Tools**: Google Colab, Power BI, Excel, Rapid Miner
 
