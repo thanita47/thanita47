@@ -13,7 +13,7 @@
 ## Achievements
 - NCSA CTF Boot Camp 2026 — Second Runner-up (Mini CTF)
 
-## 📜 Certifications & Participation
+## Certifications & Participation
 - Super AI Engineer — Foundation AI Level 1 (AIAT)
 - NCSA × Cisco CTF 2026 — Participant
 - Ethical Hacker (Cisco × NCSA)
