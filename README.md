@@ -11,9 +11,15 @@
 - **Tools**: Google Colab, Power BI, Excel, Rapid Miner
 
 ## Achievements
-- Mini CTF — Second Runner-up (CTF Boot Camp 2026)
+- NCSA CTF Boot Camp 2026 — Second Runner-up (Mini CTF)
+
+## 📜 Certifications & Participation
+- Super AI Engineer — Foundation AI Level 1 (AIAT)
 - NCSA × Cisco CTF 2026 — Participant
-- Super AI Engineer — Foundation AI (AIAT)
+- Ethical Hacker (Cisco × NCSA)
+- Data Analytics Essentials (Cisco)
+- Introduction to Cybersecurity (Cisco)
+- Basic Cybersecurity Lab (NCSA)
 
 ## Contact
 - Email: thanita.khommoonin@gmail.com
