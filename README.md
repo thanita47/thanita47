@@ -1,7 +1,7 @@
 # Hi there, I'm Thanita 👋
 
 - 4th-year IT Student @ University of Phayao
-- Interested in AI/ML, NLP, and Cybersecurity
+- Interested in Data Science, Data Analytics and Cybersecurity
 - University Project: Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP
 
 ## Skills
