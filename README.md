@@ -16,7 +16,6 @@
 ## Certifications & Participation
 - Super AI Engineer — Foundation AI Level 1 (AIAT)
 - NCSA × Cisco CTF 2026 — Participant
-- Ethical Hacker (Cisco × NCSA)
 - Data Analytics Essentials (Cisco)
 - Introduction to Cybersecurity (Cisco)
 - Basic Cybersecurity Lab (NCSA)
