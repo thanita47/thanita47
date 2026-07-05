@@ -2,7 +2,7 @@
 
 - 4th-year IT Student @ University of Phayao
 - Interested in Data Science, Data Analytics and Cybersecurity
-- University Senior Project (Team of 2): Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP
+- University Senior Project (Team of 2): Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP  → [Repo] (https://github.com/chatchai20/Online-Threat-Message-Classification-on-X-Twitter-Using-Machine-Learning-and-NLP)
 
 ## Skills
 - **Languages**: Python, SQL, Bash
