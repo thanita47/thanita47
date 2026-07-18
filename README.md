@@ -17,6 +17,7 @@
 - Super AI Engineer — Foundation AI Level 1 (AIAT)
 - Data Analytics Essentials (Cisco)
 - Introduction to Cybersecurity (Cisco)
+- NCSA CTF Boot Camp 2026 — Second Runner-up (Mini CTF)
 - Basic Cybersecurity Lab (NCSA)
 
 ## Contact
