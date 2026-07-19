@@ -1,5 +1,5 @@
 # Hi there, I'm Thanita 👋
-🤗 [huggingface.co/peung47](https://huggingface.co/peung47)
+Hugging Face: [huggingface.co/peung47](https://huggingface.co/peung47)
 
 - 4th-year IT Student @ University of Phayao
 - Interested in Data Science, Data Analytics and Cybersecurity
