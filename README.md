@@ -7,7 +7,7 @@
 - **Languages**: Python, SQL, Bash
 - **LLM Fine-tuning**: LoRA, QLoRA, LLaMA-Factory, PyTorch, HuggingFace Transformers
 - **AI/ML & NLP**: Scikit-learn, Pandas, PyThaiNLP, SHAP
-- **Cybersecurity**: Kali Linux, Wireshark, Nmap, Burp Suite
+- **Cybersecurity**: Kali Linux, Ubuntu, Wireshark, Nmap, Burp Suite
 - **Tools**: Google Colab, Power BI, Excel, Rapid Miner
 
 ## Achievements
