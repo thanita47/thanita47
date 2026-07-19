@@ -21,7 +21,7 @@
 - Basic Cybersecurity Lab (NCSA)
 
 ## Hugging Face
-🤗 Hugging Face: [huggingface.co/peung47](https://huggingface.co/peung47)
+- Hugging Face: [huggingface.co/peung47](https://huggingface.co/peung47)
 
 ## Contact
 - Email: thanita.khommoonin@gmail.com
