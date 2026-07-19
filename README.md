@@ -1,4 +1,5 @@
 # Hi there, I'm Thanita 👋
+🤗 [huggingface.co/peung47](https://huggingface.co/peung47)
 
 - 4th-year IT Student @ University of Phayao
 - Interested in Data Science, Data Analytics and Cybersecurity
@@ -7,6 +8,7 @@
 ## Skills
 - **Languages**: Python, SQL, Bash
 - **AI/ML & NLP**: Scikit-learn, Pandas, PyThaiNLP, HuggingFace Transformers, SHAP
+- **LLM Fine-tuning**: LoRA, QLoRA, LLaMA-Factory, PyTorch
 - **Cybersecurity**: Kali Linux, Wireshark, Nmap, Burp Suite
 - **Tools**: Google Colab, Power BI, Excel, Rapid Miner
 
@@ -22,3 +24,5 @@
 
 ## Contact
 - Email: thanita.khommoonin@gmail.com
+
+
