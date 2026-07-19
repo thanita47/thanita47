@@ -5,8 +5,8 @@
 
 ## Skills
 - **Languages**: Python, SQL, Bash
-- **AI/ML & NLP**: Scikit-learn, Pandas, PyThaiNLP, HuggingFace Transformers, SHAP
-- **LLM Fine-tuning**: LoRA, QLoRA, LLaMA-Factory, PyTorch
+- **LLM Fine-tuning**: LoRA, QLoRA, LLaMA-Factory, PyTorch, HuggingFace Transformers
+- **AI/ML & NLP**: Scikit-learn, Pandas, PyThaiNLP, SHAP
 - **Cybersecurity**: Kali Linux, Wireshark, Nmap, Burp Suite
 - **Tools**: Google Colab, Power BI, Excel, Rapid Miner
 
