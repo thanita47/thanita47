@@ -15,9 +15,10 @@
 
 ## Certifications & Participation
 - Super AI Engineer — Foundation AI Level 1 (AIAT)
-- Data Analytics Essentials (Cisco)
-- Introduction to Cybersecurity (Cisco)
+- Data Analytics Essentials (Cisco Networking Academy)
 - NCSA CTF Boot Camp 2026 — Second Runner-up (Mini CTF)
+- Introduction to Cybersecurity (Cisco Networking Academy)
+- Introduction to Networks (Cisco Networking Academy)
 - Basic Cybersecurity Lab (NCSA)
 
 ## Hugging Face
