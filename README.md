@@ -4,7 +4,7 @@
 - University Senior Project (Team of 2): Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP  → [Repo] (https://github.com/chatchai20/Online-Threat-Message-Classification-on-X-Twitter-Using-Machine-Learning-and-NLP)
 
 ## Skills
-- **Languages**: Python, SQL, Bash
+- **Languages**: Python, SQL
 - **LLM Fine-tuning**: LoRA, QLoRA, LLaMA-Factory, PyTorch, HuggingFace Transformers
 - **AI/ML & NLP**: Scikit-learn, Pandas, PyThaiNLP, SHAP
 - **Cybersecurity**: Kali Linux, Ubuntu, Wireshark, Nmap, Burp Suite
